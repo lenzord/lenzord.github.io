@@ -1,0 +1,22 @@
+body {
+  font-size: 100%;
+  margin: 10px;
+  padding: 10px;
+}
+
+h1 {
+  font-family: Montserrat;
+  padding-bottom: 15px;
+}
+
+h1:hover {
+  font-size: 2em;
+  transition: 1s;
+}
+
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
