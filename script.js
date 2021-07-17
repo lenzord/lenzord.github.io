@@ -1,4 +1,3 @@
-
 const url = 'https://dog.ceo/api/breeds/image/random';
 const dogImg = document.querySelector('[data-js="dog-img"]');
 
