@@ -20,3 +20,11 @@ h1:hover {
   justify-content: center;
   flex-direction: column;
 }
+
+.pics {
+  margin-bottom: 285px;
+}
+
+.footer {
+  font-family: Encode Sans SC;
+}
